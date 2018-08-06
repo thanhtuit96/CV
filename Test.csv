@@ -1,214 +1,214 @@
-Name,XLiteID,Active,KPI,Level,TLSTeam,Region,Area,Type,DateStart,ActiveUser,Month,DateLeave,AgentID,MSNV,Name_on_NS,KPI_Month,KPI_Date,Position,BirthDate
-Lưu Thị Ngọc Trâm,362,,0,3.0,TOP ORG,,,Chính thức,2015-06-01,,2017-05-01,,tram.ltn,CM0362,"Trâm, Lưu Thị Ngọc",,,Sale man,
-Lê Thị Huệ Tĩnh,361,,750000000,3.0,HCM,,,Chính thức,2015-06-01,,2017-05-01,,tinh.lth,CM0361,"Tĩnh, Lê Thị Huệ",,,Sale man,
-Vũ Thị Hồng Nhung,273,,450000000,3.0,BDG,,,Chính thức,2015-05-11,,2017-05-01,,nhung.vth,CM0273,"Nhung, Vũ Thị Hồng",200000000.0,13333333.3,Sale man,7/23/1993
-Nguyễn Ngọc Duyên,540,x,500000000,2.0,BDG,BDG,BDG5,Chính thức,2015-06-18,x,2017-05-01,,duyen.nn,CM0540,"Duyên, Nguyễn Ngọc",800000000.0,26666666.7,Sale man,6/11/1989
-Nguyễn Thị Minh Hà,268,x,,3.0,TOP ORG,DNI,DNI3,Chính thức,2015-05-11,x,2017-05-01,,ha.ntm,CM0268,"Hà, Nguyễn Thị Minh",380000000.0,12666666.7,Sale man,10/26/1990
-Phương Nhật Vy,767,x,300000000,2.0,BDG,BDG,BDG3,Chính thức,2015-07-20,x,2017-05-01,,vy.pn,CM0767,"Vy, Phương Nhật",280000000.0,9333333.3,Sale man,10/23/1990
-Nguyễn Văn Hội,535,x,300000000,2.0,BDG,BDG,BDG1,Chính thức,2015-06-18,x,2017-05-01,,hoi.nv,CM0535, ,280000000.0,9333333.3,Sale man,7/19/1992
-Nguyễn Thị Thúy An,777,,500000000,2.0,MKD,,,Chính thức,2015-07-20,,2017-05-01,,an.ntt,CM0777,"An, Nguyễn Thị Thúy",,,Sale man,
-Đặng Thị Hồng Nhạn,1029,x,350000000,2.0,HCM,HCM,HCM2,Chính thức,2015-11-02,x,2017-05-01,,nhan.dth,CM1029,"Nhạn, Đặng Thị Hồng",350000000.0,11666666.7,Sale man,7/8/1993
-Trần Thị Tuyết Ngân,734,x,330000000,2.0,HCM,HCM,HCM4,Chính thức,2015-07-13,x,2017-05-01,,ngan.ttt,CM0734,"Ngân, Trần Thị Tuyết",350000000.0,11666666.7,Sale man,2/23/1991
-Cao Thùy Linh,473,x,450000000,1.0,NORTH,HNI,HNI,Chính thức,2015-06-15,x,2017-05-01,,linh.ct,CM0473,"Linh, Cao Thùy",290000000.0,9666666.7,Sale man,11/13/1984
-Nguyễn Thị Hằng,558,,0,1.0,CTV,,,Chính thức,-,,2017-05-01,,hang.ngt,CM0558,"Hằng, Nguyễn Thị",,,Sale man,
-Phạm Thị Bích Hòa,2927,x,950000000,3.0,MKD,MKD,MKD1,Chính thức,2016-03-28,x,2017-05-01,,hoa.ptb,2927.0,"Hòa, Phạm Thị Bích",610000000.0,20333333.3,Sale man,6/27/1991
-Đoàn Thị Nguyên,3128,x,310000000,1.0,HCM,HCM,HCM3,chính thức,2016-06-29,x,2017-05-01,,nguyen.dt,3128.0,"Nguyên, Đoàn Thị",350000000.0,11666666.7,Sale man,9/16/1992
-Trần Phạm Quỳnh Phương,3131,x,,0.0,TOP ORG,DNI,DNI6,chính thức,2016-06-29,x,2017-05-01,,phuong.tpq,3131.0,"Phương, Trần Phạm Quỳnh",420000000.0,14000000.0,Sale man,3/8/1989
-Nguyễn Thị Minh Châu,3284,x,350000000,0.0,BDG,BDG,BDG5,chính thức,2016-09-26,x,2017-05-01,,chau.ntm,3284.0,"Nguyễn Thị Minh, Châu",320000000.0,10666666.7,Sale man,5/9/1990
-Phạm Thị Diệu Hiền,3332,x,295000000,1.0,HCM,HCM,HCM3,chính thức,2016-10-04,x,2017-05-01,,hien.ptd,3332.0,"Phạm Thị Diệu, Hiền",300000000.0,10000000.0,Sale man,7/9/1991
-Phạm Thị Hạnh,3431,x,500000000,0.0,TOP ORG,DNI,DNI6,Chính thức,2017-02-17,x,2017-05-01,,hanh.pt,3431.0,"Phạm Thị, Hạnh",300000000.0,10000000.0,Sale man,4/16/1991
-Bùi Thị Vân Nga,3457,x,,0.0,TOP ORG,DNI,DNI6,chính thức,2017-03-09,x,2017-05-01,,nga.btv,3457.0,"Bùi Thị Vân, Nga",360000000.0,12000000.0,Sale man,1/28/1995
-Nguyễn Thị Phượng,3465,x,500000000,0.0,TOP ORG,DNI,DNI5,chính thức,2017-03-13,x,2017-05-01,,phuong.nth,3465.0,"Nguyễn Thị, Phượng",330000000.0,11000000.0,Sale man,6/21/1983
-Trần Thị Mi Ni,3466,x,450000000,0.0,TOP ORG,DNI,DNI3,Chính thức,2017-03-13,x,2017-05-01,,ni.ttm,3466.0,"Trần Thị Mi, Ni",320000000.0,10666666.7,Sale man,
-Nguyễn Thị Hải Lý,1006,x,400000000,1.0,NORTH,HPG,HPG,Chính thức,2017-03-20,x,2017-05-01,,ly.nth,CM01006,"Lý, Nguyễn Thị Hải Lý",290000000.0,9666666.7,Sale man,#N/A
-Nguyễn Thị Hồng Vân,3480,,420000000,0.0,HCM,,,Thử việc,2017-03-20,,2017-05-01,,van.nth,3480.0,"Vân, Nguyễn Thị Hồng",,,,11/29/1993
-Nguyễn Lê Thanh Nhã,3503,x,250000000,,BDG,BDG,BDG4,Thử việc,2017-03-29,x,2017-05-01,,nha.nlt,3503.0,"Nhã, Nguyễn Lê Thanh",250000000.0,8333333.3,Sale man,1/14/1988
-Phạm Thị Yến Phương,3504,,,,BDGA,,,Thử việc,2017-03-28,,2017-05-01,,phuong.pty,3504.0,"Phương, Phạm Thị Yến",,,Sale man,
-Trần Thị Hoài Xuân,3549,x,250000000,,BDG,BDG,BDG5,Thử việc,2017-04-27,x,2017-05-01,,xuan.tth,3549.0,"Xuân, Trần Thị Hoài",250000000.0,8333333.3,Sale man,9/25/1988
-Trần Thị Kim Hiền,3677,x,220000000,0.0,HCM,HCM,HCM4,Thử việc,2017-06-26,x,2017-08-01,,hien.ttk,3677.0,"Hiền, Trần Thị Kim",270000000.0,9000000.0,Sale man,6/3/1999
-Mai Thế Phương,3690,x,400000000,0.0,DNI,DNI,DNI1,Thử việc,2017-07-03,x,2017-08-01,,phuong.mt,3690.0,"Phương, Mai Thế",330000000.0,11000000.0,Sale man,3/17/1994
-Lê Thị Mỹ Trinh,3748,x,500000000,,TOP ORG,DNI,DNI5,Thử việc,2017-08-14,x,2017-08-01,,trinh.ltm,3748.0,"Trinh, Lê Thị Mỹ",280000000.0,9333333.3,Sale man,10/14/1993
-Nguyễn Thị Thùy Linh,3746,x,400000000,0.0,TOP ORG,DNI,DNi3,Thử việc,2017-08-14,x,2017-08-01,,linh.ntthuy,3746.0,"Linh, Nguyễn Thị Thùy",280000000.0,9333333.3,Sale man,11/8/1994
-Trịnh Thị Mỹ Duyên,3784,,,0.0,BDGA,,,Thử việc,2017-08-28,,2017-08-01,,duyen.ttmy,3784.0,"Duyên, Trịnh Thị Mỹ",,,Sale man,
-Phạm Thị Mến,3794,x,600000000,1.0,NORTH,HPG,HPG,Chính thức,2017-09-08,x,2017-09-01,,men.phth,3794.0,"Mến, Phạm Thị Mến",500000000.0,16666666.7,Sale man,8/29/1991
-Đặng Hồng Nhân,3810,,450000000,0.0,TOP ORG 1,,,Thử việc,2017-09-11,,2017-09-01,,nhan.dh,3810.0,"Nhân, Đặng Hồng",,,Sale man,11/20/1996
-Đỗ Thu Thảo,3852,,,,TOP ORG 2,,,Thử việc,2017-09-25,,2017-09-01,43159.0,thao.dothu,3852.0,"Thảo, Đỗ Thu",,,Sale man,
-Đỗ Lê Tú,3855,,0,,CA,,,Thử việc,2017-09-25,,2017-09-01,43159.0,tu.dle,3855.0,"Tú, Đỗ Lê",,,Sale man,
-Trần Thị Thanh Mến,3879,,0,,MKD,,,Thử việc,2017-10-02,,2017-10-01,43103.0,men.ttt,3879.0,"Mến, Trần Thị Thanh",,,Sale man,
-Nguyễn Thái Kim Ngọc,3874,x,,,TOP ORG,DNI,DNI6,Thử việc,2017-10-02,x,2017-10-01,,ngoc.ntk,3874.0,"Ngọc, Nguyễn Thái Kim",380000000.0,12666666.7,Sale man,10/31/1989
-Trần Minh Trọng,3895,x,400000000,,HCM,HCM,HCM1,Thử việc,2017-10-09,x,2017-10-01,,trong.tm,3895.0,"Trọng, Trần Minh",350000000.0,11666666.7,Sale man,6/9/1994
-Đào Trần Yến Nhi,3893,x,250000000,,BDG,BDG,BDG3,Thử việc,2017-10-09,x,2017-10-01,,nhi.dty,3893.0,"Nhi, Đào Trần Yến",270000000.0,9000000.0,Sale man,10/10/1992
-Nguyễn Huy Hoàng,3891,x,220000000,,BDG,BDG,BDG5,Thử việc,2017-10-09,x,2017-10-01,,hoang.nh,3891.0,"Hoàng, Nguyễn Huy",220000000.0,7333333.3,Sale man,9/16/1997
-Lê Thị Ánh,3866,,400000000,0.0,NORTH,,,Chính thức,2017-10-02,,2017-10-01,43200.0,anh.lth,3866.0,"Ánh, Lê Thị",,,Sale man,
-Lê Thị Quỳnh Như,3964,x,400000000,,TOP ORG,DNI,DNI6,Thử việc,2017-10-23,x,2017-10-01,,nhu.ltq,3964.0,"Như, Lê Thị Quỳnh",250000000.0,8333333.3,Sale man,12/19/1996
-Bùi Thị Kim Đạm,3965,x,250000000,,BDG,BDG,BDG1,Thử việc,2017-10-23,x,2017-10-01,,dam.btk,3965.0,"Đạm, Bùi Thị Kim",270000000.0,9000000.0,Sale man,10/4/1996
-Nguyễn Gia Hưng,3994,,,,BDGB,,,Thử việc,2017-11-01,,2017-11-01,,hung.ng,3994.0,"Hưng, Nguyễn Gia",,,Sale man,
-Nguyễn Thị Kim Hồng,3999,,250000000,,HCM,,,Thử việc,2017-11-01,,2017-11-01,,hong.ntk,3999.0,"Hồng, Nguyễn Thị Kim",,,Sale man,
-Nguyễn Thị Thanh Bình,4000,x,220000000,,BDG,BDG,BDG5,Thử việc,2017-11-01,x,2017-11-01,,binh.ntt,4000.0,"Bình, Nguyễn Thị Thanh",220000000.0,7333333.3,Sale man,10/20/1992
-Nguyễn Thúy Quỳnh,3998,x,220000000,,BDG,BDG,BDG5,Thử việc,2017-11-01,x,2017-11-01,,quynh.ngthuy,3998.0,"Quỳnh, Nguyễn Thúy",220000000.0,7333333.3,Sale man,11/27/1995
-Huỳnh Thị Kiều Duyên,4034,,500000000,,TOP ORG,DNI,DNI3,Thử việc,2017-11-01,,2017-11-01,07/31/2018,duyen.htk,4034.0,"Duyên, Huỳnh Thị Kiều",310000000.0,10333333.3,Sale man,1/25/1994
-Lâm Bình,4032,,0,,DNI,,,Thử việc,2017-11-07,,2017-11-01,,binh.lam,4032.0,"Bình, Lâm",,,Sale man,
-Hồ Sỹ Đức,4033,,250000000,,HCM,,,Thử việc,2017-11-06,,2017-11-01,,duc.hs,4033.0,"Đức, Hồ Sỹ",,,Sale man,
-Lý Thị Nụ,0089,x,400000000,0.0,NORTH,HNI,HNI,Chính thức,2017-11-16,x,2017-10-01,,nu.lt,CM0089,"Nụ, Lý Thị",290000000.0,9666666.7,Sale man,5/9/1992
-Lê Hồng Mỹ Hảo,4115,x,220000000,,HCM,HCM,HCM4,Thử việc,2017-11-23,x,2017-11-01,,hao.lhmy,4115.0,"Hảo, Lê Hồng Mỹ",270000000.0,9000000.0,Sale man,5/19/1997
-Huỳnh Ngọc Anh,4094,x,270000000,,BDG,BDG,BDG4,Thử việc,2017-11-21,x,2017-11-01,,anh.hn,4094.0,"Anh, Huỳnh Ngọc",270000000.0,9000000.0,Sale man,1/25/1992
-Trần Nguyễn Phương Thủy,4095,x,300000000,,DNI,DNI,DNI1,Thử việc,2017-11-21,x,2017-11-01,,thuy.tnp,4095.0,"Thủy, Trần Nguyễn Phương",230000000.0,7666666.7,Sale man,3/21/1994
-Võ Thị Bích Kiều,4100,,,,BDGB,,,Thử việc,2017-11-21,,2017-11-01,,kieu.vtb,4100.0,"Kiều, Võ Thị Bích",,,Sale man,
-Nguyễn Thị Kiều Vân,4102,x,,,TOP ORG,DNI,DNI5,Thử việc,2017-11-21,x,2017-11-01,,van.ngtk,4102.0,"Vân, Nguyễn Thị Kiều",310000000.0,10333333.3,Sale man,1/7/1996
-Néang Chanh Bô Pha,4142,,0,,DNI,,,Thử việc,2017-11-28,,2017-11-01,,pha.ncb,4142.0,"Pha, Néang Chanh Bô",,,Sale man,
-Nguyễn Đức Hiệp,4132,,290000000,0.0,MKD,,,Thử việc,2017-11-28,,2017-11-01,,hiep.nd,4132.0,"Hiệp, Nguyễn Đức",,,Sale man,
-Nguyễn Minh Sang,4140,,300000000,0.0,MKD,,,Thử việc,2017-11-28,,2017-11-01,,sang.nguyen,4140.0,"Sang, Nguyễn Minh",,,Sale man,
-Trương Thị Hiếu,4143,,0,0.0,MKD,,,Thử việc,2017-11-28,,2017-11-01,,hieu.trt,4143.0,"Hiếu, Trương Thị",,,Sale man,
-Lê Đình Việt Nhi,4157,,250000000,,HCM,,,Thử việc,2017-12-04,,2017-12-01,43134.0,vietnhi.ld,4157.0,"Nhi, Lê Đình Việt",,,Sale man,
-Lê Như Hồng Phúc,4167,x,300000000,,DNI,DNI,DNI1,Thử việc,2017-12-05,x,2017-12-01,,phuc.lnh,4167.0,"Phúc, Lê Như Hồng",230000000.0,7666666.7,Sale man,12/29/1992
-Lê Kim Chi,4168,,182160052,,BDGA,,,Thử việc,2017-12-05,,2017-12-01,,chi.lk,4168.0,"Chi, Lê Kim",,,Sale man,
-Nguyễn Thị Mỹ Huyền,4178,,200000000,,DNI,,,Thử việc,2017-12-05,,2017-12-01,26-06-2018,myhuyen.nt,4178.0,"Huyền, Nguyễn Thị Mỹ",,,Sale man,1/10/1997
-Đặng Ngọc Quý,4171,,0,,MKD,,,Thử việc,2017-12-05,,2017-12-01,,quy.dn,4171.0,"Quý, Đặng Ngọc",,,Sale man,
-Võ Phi Hoàng,4169,,500000000,,HCM,HCM,HCM1,Thử việc,2017-12-05,x,2017-12-01,,hoang.vophi,4169.0,"Hoàng, Võ Phi",350000000.0,11666666.7,Sale man,9/6/1991
-Trần Thị Ngọc Ánh,4170,,350000000,,TOP ORG 2,,,Thử việc,2017-12-05,,2017-12-01,43252.0,anh.thn,4170.0,"Ánh, Trần Thị Ngọc",,,Sale man,2/8/1997
-Nguyễn Thị Hồng Khanh,4182,,300000000,0.0,NORTH,,,Thử việc,2017-12-06,,1911-06-01,43172.0,khanh.nth,4182.0,"Khanh, Nguyễn Thị Hồng",,,Sale man,
-Nguyễn Hoàng Luật,4198,x,500000000,,MKD,MKD,MKD4,Thử việc,2017-12-12,x,2017-12-01,,luat.nh,4198.0,"Luật, Nguyễn Hoàng",350000000.0,11666666.7,Sale man,6/10/1994
-Quách Huy Bình,4201,x,300000000,,DNI,DNI,DNI2,Thử việc,2017-12-12,x,2017-12-01,,binh.qh,4201.0,"Bình, Quách Huy",236000000.0,7866666.7,Sale man,3/7/1993
-Nguyễn Thị Phương Nga,4209,,192422070,,BDGA,,,Thử việc,2017-12-12,,2017-12-01,,nga.ntph,4209.0,"Nga, Nguyễn Thị Phương",,,Sale man,
-Đỗ Thị Mỹ Hiệp,4206,x,250000000,,BDG,BDG,BDG1,Thử việc,2017-12-12,x,2017-12-01,,hiep.dtm,4206.0,"Hiệp, Đỗ Thị Mỹ",250000000.0,8333333.3,Sale man,2/12/1995
-Trần Thị Phương Anh,4196,,,,TOP ORG 2,,,Thử việc,2017-12-12,,2017-12-01,,phuonganh.tt,4196.0,"Anh, Trần Thị Phương",,,Sale man,
-Nguyễn Hoàng Mai Ly,4235,x,400000000,,MKD,MKD,MKD1,Thử việc,2017-12-19,x,2017-12-01,,ly.nhm,4235.0,"Ly, Nguyễn Hoàng Mai",280000000.0,9333333.3,Sale man,1/17/1991
-Tô Mạnh Cường,4247,,0,0.0,MKD,,,Thử việc,2017-12-26,,2017-12-01,,cuong.to,4247.0,"Cường, Tô Mạnh",,,Sale man,
-Thái Thành Khoa,4251,,250000000,,HCM,HCM,HCM5,Thử việc,2017-12-26,x,2017-12-01,,khoa.tt,4251.0,"Khoa, Thái Thành",270000000.0,9000000.0,Sale man,5/16/1995
-Nguyễn Đắc Hóa,4261,,0,,DNI,,,Thử việc,2018-01-02,,2018-01-01,,hoa.nd,4261.0,"Hóa, Nguyễn Đắc",,,Sale man,
-Nguyễn Bá Lộc,4248,,0,,CA,,,Thử việc,2017-12-26,,2017-12-01,43159.0,loc.ngba,4248.0,"Lộc, Nguyễn Bá",,,Sale man,
-Đinh Thị Bích Hằng,4279,,0,,MKD,,,Thử việc,2018-01-09,,2018-01-01,,hang.dtb,4279.0,"Hằng, Đinh Thị Bích",,,Sale man,
-Phạm Mỹ Tâm,4277,,0,,MKD,,,Thử việc,2018-01-09,,2018-01-01,,tam.pm,4277.0,"Tâm, Phạm Mỹ",,,Sale man,
-Nguyễn Hoàng Phượng,4281,,0,,CA,,,Thử việc,2018-01-09,,2018-01-01,43134.0,phuong.nghoang,4281.0,"Phượng, Nguyễn Hoàng",,,Sale man,
-Trần Hòa Trinh,4282,x,360000000,,MKD,MKD,MKD1,Thử việc,2018-01-09,x,2018-01-01,,trinh.th,4282.0,"Trinh, Trần Hòa",240000000.0,8000000.0,Sale man,1/21/1992
-Trần Thị Thúy Linh,4285,,,,BDGB,,,Thử việc,2018-01-09,,2018-01-01,,linh.ttt,4285.0,"Linh, Trần Thị Thúy",,,Sale man,
-Nguyễn Sơn Tùng,4286,,0,,CA,,,Thử việc,2018-01-09,,2018-01-01,43142.0,tung.ns,4286.0,"Tùng, Nguyễn Sơn",,,Sale man,
-Trần Thanh Sang,4284,x,400000000,,DNI,DNI,DNI2,Thử việc,2018-01-09,x,2018-01-01,,sang.tt,4284.0,"Sang, Trần Thanh",235000000.0,7833333.3,Sale man,3/19/1992
-Trần Thị Thanh Lan,2163,x,4500000000,,HCM,HCM,,Chính thức,2014-09-18,x,2014-09-01,,lan.tran,2163.0,Trần Thị Thanh Lan,4600000000.0,153333333.3,Team Leader,11/10/1989
-Nguyễn Thị Tiểu Băng,2012,x,4800000000,,BDG,BDG,,Chính thức,2014-07-16,x,2014-07-01,,bang.nguyen,2012.0,Nguyễn Thị Tiểu Băng,4700000000.0,156666666.7,Team Leader,9/30/1992
-Trần Nguyễn Bích Trâm,3991,,2000000000,,DNI,DNI,,Chính thức,2017-11-01,,2017-11-01,07/25/2018,tram.tnb,3991.0,Trần Nguyễn Bích Trâm,1581000000.0,52700000.0,Team Leader,1/6/1991
-Hà Việt Tiến,3977,,,,HCM,,,Chính thức,2017-10-30,,2017-10-01,,tien.hv,3977.0,Hà Việt Tiến,,,Team Leader,
-Nguyễn Thị Hoàng Điệp,3989,,3095000000,,HCM,,,Chính thức,2017-11-01,,2017-11-01,,diep.nth,3989.0,Nguyễn Thị Hoàng Điệp,,,Team Leader,7/14/1991
-Huỳnh Trung Phú,3988,x,4950000000,,MKD,MKD,,Chính thức,2017-11-01,x,2017-11-01,,phu.ht,3988.0,Huỳnh Trung Phú,2741000000.0,91366666.7,Team Leader,12/18/1986
-Lê Thị Trang,2244,x,2400000000,0.0,NORTH,,,Chính thức,2014-11-24,x,2014-11-01,,thitrang.le,2244.0,Lê Thị Trang,2000000000.0,66666666.7,Team Leader,6/20/1989
-Trần Huỳnh Uyên Phương,2205,x,,,TOP ORG,DNI,,Chính thức,2014-10-13,x,2014-10-01,,uyenphuong.tran,2205.0,Trần Huỳnh Uyên Phương,5200000000.0,173333333.3,Team Leader,9/18/1992
-Ung Đức Quang,3990,,5000000000,,TOP ORG,,,Chính thức,2017-11-01,,2017-11-01,43290.0,quang.ud,3990.0,Ung Đức Quang,,,Team Leader,5/4/1991
-Lưu Thị Thu Thảo,4357,,250000000,,MKD,,,Thử việc,2018-03-06,,,,thao.ltthu,4357.0,"Thảo, Lưu Thị Thu",,,Sale man,
-Lý Thị Thanh Phương,4363,x,300000000,,MKD,MKD,MKD4,Thử việc,2018-03-06,x,,,phuong.lytt,4363.0,"Phương, Lý Thị Thanh",200000000.0,6666666.7,Sale man,1/23/1991
-Nguyễn Thùy Trúc Linh,4356,,180000000,,MKD,,,Thử việc,2018-03-06,,,,linh.nttruc,4356.0,"Linh, Nguyễn Thùy Trúc",,,Sale man,
-Giáp Minh Hiếu,4365,,,,MKD,,,Thử việc,2018-03-06,,,,hieu.gm,4365.0,"Hiếu, Giáp Minh",,,Sale man,
-Lê Duy Hải Đăng,4362,x,300000000,,MKD,MKD,MKD3,Thử việc,2018-03-06,x,,,dang.ldh,4362.0,"Đăng, Lê Duy Hải",200000000.0,6666666.7,Sale man,#N/A
-Bùi Mạnh Tùng,4359,x,,,TOP ORG,DNI,DNI5,Thử việc,2018-03-06,x,,,tung.bm,4359.0,"Tùng,Bùi Mạnh",230000000.0,7666666.7,Sale man,#N/A
-Nguyễn Ngọc Thanh Thanh,4361,,250000000,,TOP ORG 2,,,Thử việc,2018-03-06,,,25-06-2018,thanh.nnt,4361.0,Nguyễn Ngọc Thanh Thanh,,,Sale man,#N/A
-Phạm Thị Thùy Dung,4364,,,,TOP ORG 1,,,Thử việc,2018-03-06,,,,dung.ptthuy,4364.0,,,,Sale man,
-Bùi Thanh Thiên,4358,,,,HCM,,,Thử việc,2018-03-06,,,,thien.bt,4358.0,Nguyễn Thị Hoàng Điệp,,,Sale man,
-Nguyễn Trần Kim Chi,4369,,,,HCM,,,Thử việc,2018-03-06,,,,chi.ngtk,4369.0,Nguyễn Thị Hoàng Điệp,,,Sale man,
-Lang Minh Trường,4386,,250000000,,TOP ORG 1,,,Thử việc,2018-03-13,,,,truong.lm,4386.0,"Trường,Lang Minh",,,Sale man,
-Nguyễn Quyết Tiến,4387,,100000000,0.0,NORTH,,,Thử việc,2018-03-16,,,22/3/2018,tien.ngq,4387.0,"Tiến, Nguyễn Quyết",,,Sale man,
-Vũ Đức Mạnh,4388,,150000000,0.0,NORTH,,,Thử việc,2018-03-16,,,,manh.vd,4388.0,"Mạnh, Vũ Đức",,,Sale man,#N/A
-Nguyễn Thị Phương Thảo,4399,x,150000000,0.0,NORTH,HNI,HNI,Thử việc,2018-03-19,x,,,thao.ntp2,4399.0,"Thảo, Nguyễn Thị Phương",170000000.0,5666666.7,Sale man,#N/A
-Lê Thị Mỹ Danh,4413,,250000000,,TOP ORG 1,,,Thử việc,2018-03-20,,,,danh.ltm2,4413.0,"Danh,Lê Thị Mỹ",,,Sale man,
-Trần Thanh Trúc,4412,,,,HCM,,,Thử việc,2018-03-20,,,,truc.tt,4412.0,,,,Sale man,
-Nguyễn Trần Thảo Anh,4414,,,,HCM,,,Thử việc,2018-03-20,,,,anh.ntt2,4414.0,,,,Sale man,
-Trần Minh Đăng,4410,,,,HCM,,,Thử việc,2018-03-20,,,,dang.tm,4410.0,,,,Sale man,
-Nguyễn Thị Thảo,4464,x,150000000,0.0,NORTH,HNI,HNI,Thử việc,2018-04-02,x,2018-04-01,,thao.nt2,4464.0,"Thảo, Nguyễn Thị",180000000.0,6000000.0,Sale man,#N/A
-Nguyễn Ngọc Bảo,4436,,200000000,,TOP ORG 1,,,Thử việc,2018-03-27,,,,bao.nn,4436.0,"Bảo, Nguyễn Ngọc",,,Sale man,#N/A
-Huỳnh Thanh Toàn,4437,,200000000,,TOP ORG 1,,,Thử việc,2018-03-27,,,,toan.ht,4437.0,"Toàn, Huỳnh Thanh",,,Sale man,#N/A
-Trịnh Thị Mỹ Duyên,4465,x,220000000,,BDG,BDG,BDG5,Thử việc,2018-02-04,x,,,duyen.ttm2,4465.0,"Duyên, Trịnh Thị Mỹ",150000000.0,5000000.0,Sale man,#N/A
-Cao Thị Thanh Châu,4472,,,,HCM,,,Thử việc,2018-04-03,,,,chau.ctt,4472.0,,,,Sale man,
-Nguyễn Thị Thanh Trúc,4471,,120000000,,BDGB,,,Thử việc,2018-04-03,,,26-06-2018,truc.ntt,4471.0,,,,Sale man,#N/A
-Lê Hữu Thịnh,4470,,,,MKD,,,Thử việc,2018-04-03,,,,thinh.lh,4470.0,,,,Sale man,
-Trần Văn Vũ,4469,,,,DNI,,,Thử việc,2018-04-03,,,,vu.tv,4469.0,Trần Văn Vũ,,,Sale man,
-Triệu Quốc Thảo,4497,,,,DNI,,,Thử việc,2018-04-10,,2018-04-01,,thao.tq,4497.0,Triệu Quốc Thảo,,,Sale man,
-Nguyễn Ngọc Xuân Ngân,4498,,100000000,,HCM,,,Thử việc,2018-04-10,,,,ngan.nnx,4498.0,,,,Sale man,#N/A
-Đoàn Thị Anh Thảo,4499,,,,HCM,,,Thử việc,2018-04-10,,,,thao.dta,4499.0,,,,Sale man,
-Trần Thị Ngọc Mai,4501,,200000000,,MKD,MKD,,Thử việc,2018-04-10,,2018-04-01,07/13/2018,mai.ttn2,4501.0,Trần Thị Ngọc Mai,200000000.0,6666666.7,Sale man,#N/A
-Nguyễn Thị Ngọc Sơn,4502,,,,BDGB,,,Thử việc,2018-04-10,,,,son.ntn,4502.0,,,,Sale man,
-Trịnh Ngọc Quỳnh Trâm,4503,,,,BDGB,,,Thử việc,2018-04-10,,,,tram.tnq,4503.0,,,,Sale man,
-Trần Thị Minh Hiếu,4504,,,,DNI,,,Thử việc,2018-04-10,,2018-04-01,,hieu.ttm,4504.0,Trần Thị Minh Hiếu,,,Sale man,
-Bùi Minh Châu,4505,,,,DNI,,,Thử việc,2018-04-10,,2018-04-01,,chau.bm,4505.0,Bùi Minh Châu,,,Sale man,
-Đoàn Thị Anh Thảo,4499,,,,HCM,,,Thử việc,2018-04-10,,,,thao.dta,4499.0,Đoàn Thị Anh Thảo,,,Sale man,
-Lê Đăng Trường Giang,4523,,,,TOP ORG 1,,,Thử việc,2018-04-17,,,43138.0,giang.ldt,4523.0,,,,Sale man,#N/A
-Khiếu Như Phương Thảo,4524,,180000000,,MKD,,,Thử việc,2018-04-17,,,43251.0,thao.knp,4524.0,Khiếu Như Phương Thảo,,,Sale man,#N/A
-Lê Thị Trúc Linh,4525,,100000000,,HCM,,,Thử việc,2018-04-17,,,,linh.ltt,4525.0,,,,Sale man,#N/A
-Trương Hồng Quý,4526,x,180000000,,HCM,HCM,HCM3,Thử việc,2018-04-17,x,,,quy.th,4526.0,Trương Hồng Quý,300000000.0,10000000.0,Sale man,#N/A
-Phùng Thiện Tài,4527,,180000000,,MKD,,,Thử việc,2018-04-17,,,43246.0,tai.pt,4527.0,Phùng Thiện Tài,,,Sale man,#N/A
-Hồ Thị Ngọc Diễm,4528,,180000000,,MKD,MKD,MKD2,Thử việc,2018-04-17,,,,diem.htn,4528.0,Hồ Thị Ngọc Diễm,180000000.0,6000000.0,Sale man,#N/A
-Phan Nguyễn Diệu Thảo,4529,,,,BDGB,,,Thử việc,2018-04-17,,,,thao.pnd,4529.0,,,,Sale man,
-Nguyễn Phạm Thành Nhơn,4530,,200000000,,MKD,,,Thử việc,2018-04-17,,,,nhon.npt,4530.0,Nguyễn Phạm Thành Nhơn,,,Sale man,#N/A
-Võ Nhân Kiệt,4531,,150000000,,TOP ORG 2,,,Thử việc,2018-04-17,,,43245.0,kiet.vn,4531.0,Võ Nhân Kiệt,,,Sale man,#N/A
-Trần Vũ Duy Tân,4547,,50000000,,DNI,,,Thử việc,2018-04-24,,,26-06-2018,tan.tvd,4547.0,Trần Vũ Duy Tân,,,Sale man,#N/A
-Châu Bích Ngọc,4548,,150000000,,BDG,BDG,,Thử việc,2018-04-24,X,,,ngoc.cb,4548.0,,150000000.0,5000000.0,Sale man,#N/A
-Nguyễn Huỳnh Anh Duy,4549,,,,HCM,,,Thử việc,2018-04-24,,,,duy.nha,4549.0,,,,Sale man,
-Trần Thị Kim Ngọc,4550,,,,TOP ORG 1,,,Thử việc,2018-04-24,,,,ngoc.ttk,4550.0,,,,Sale man,
-Võ Thị Thục Hân,4557,,50000000,,DNI,,,Thử việc,2018-04-24,,2018-04-01,43245.0,han.vtt,4557.0,Võ Thị Thục Hân,,,Sale man,#N/A
-Đỗ Thị Lân,4552,,100000000,,BDGA,,,Thử việc,2018-04-24,,,,lan.dt,4552.0,,,,Sale man,#N/A
-Nguyễn Thanh Vĩ,4553,,180000000,,HCM,HCM,HCM3,Thử việc,2018-04-24,x,,,vi.nt,4553.0,Nguyễn Thanh Vĩ,270000000.0,9000000.0,Sale man,#N/A
-Lê Minh Hoàng,4554,x,100000000,,TOP ORG,DNI,DNI4,Thử việc,2018-04-24,x,,,hoang.lm,4554.0,Lê Minh Hoàng,170000000.0,5666666.7,Sale man,#N/A
-Phạm Thị Phương Anh,4555,,150000000,,MKD,,,Thử việc,2018-04-24,,,43245.0,anh.ptp,4555.0,Phạm Thị Phương Anh,,,Sale man,#N/A
-Võ Phương Duyên,4556,,150000000,,MKD,,,Thử việc,2018-04-24,,,43245.0,duyen.vp,4556.0,Võ Phương Duyên,,,Sale man,#N/A
-Lê Thu Thảo,4535,x,50000000,,NORTH,HPG,HPG,Thử việc,2018-04-20,x,,,thao.lt,4535.0,Lê Thu Thảo,180000000.0,6000000.0,Sale man,#N/A
-Vàng Thị Tuyến,4564,,50000000,,NORTH,,,Thử việc,2018-05-03,,,43107.0,tuyen.vt,4564.0,Vàng Thị Tuyến,,,Sale man,#N/A
-Lê Thị Kiều Hoa,4582,,,,TOP ORG,DNI,,Thử việc,2018-02-05,,,07/22/2018,hoa.ltk,4582.0,Lê Thị Kiều Hoa,150000000.0,5000000.0,Sale man,#N/A
-Lý Thị Hồng Nhung,4583,x,100000000,,MKD,MKD,MKD1,Thử việc,2018-05-08,x,,,nhung.lth,4583.0,Lý Thị Hồng Nhung,150000000.0,5000000.0,Sale man,#N/A
-Nguyễn Thị Mai Ly,4584,,100000000,,BDGB,,,Thử việc,2018-05-08,,,43107.0,ly.ntm,4584.0,Nguyễn Thị Mai Ly,,,Sale man,#N/A
-Lê Thị Hồng Bích,4585,,100000000,,TOP ORG,DNI,DNI3,Thử việc,2018-05-08,,,07/26/2018,bich.ltb,4585.0,Lê Thị Hồng Bích,170000000.0,5666666.7,Sale man,#N/A
-Huỳnh Khương Lâm Quân,4586,,100000000,,DNI,DNI,DNI2,Thử việc,2018-05-08,,,,quan.hkl,4586.0,Huỳnh Khương Lâm Quân,220000000.0,7333333.3,Sale man,#N/A
-Phạm Thị Thùy Dung,4587,,105000000,,BDGB,,,Thử việc,2018-05-08,,,26-06-2018,dung.ptt2,4587.0,Phạm Thị Thùy Dung,,,Sale man,#N/A
-Nguyễn Quách Ngọc Hân,4633,x,10000000,,TOP ORG,DNI,DNI5,Thử việc,2018-05-22,x,,,han.nqn,4633.0,Nguyễn Quách Ngọc Hân,120000000.0,4000000.0,Sale man,
-Bùi Trần Thanh Tâm,4634,x,110000000,,HCM,HCM,HCM2,Thử việc,2018-05-22,x,,,tam.btt,4634.0,Bùi Trần Thanh Tâm,270000000.0,9000000.0,Sale man,
-Trần Thị Tâm,4635,,10000000,,MKD,,,Thử việc,2018-05-22,,,43272.0,tam.tt2,4635.0,Trần Thị Tâm,,,Sale man,
-Đào Thị Mỹ Lệ,4636,x,10000000,,MKD,DNG,DNG1,Thử việc,2018-05-22,x,,,le.dtm,4636.0,Đào Thị Mỹ Lệ,156000000.0,5200000.0,Sale man,
-Mạch Duy Thuận,4638,,,,TOP ORG 1,,,Thử việc,2018-05-22,,,,thuan.md,4638.0,Mạch Duy Thuận,,,Sale man,
-Đặng Thị Oanh,4639,x,,,MKD,DNG,DNG2,Thử việc,2018-05-22,x,,,oanh.dt,4639.0,Đặng Thị Oanh,100000000.0,3333333.3,Sale man,
-Đặng Giang Thanh,4640,,110000000,,HCM,,,Thử việc,2018-05-22,,,43107.0,thanh.dg,4640.0,Đặng Giang Thanh,,,Sale man,
-Nguyễn Phan Huỳnh Như,4651,,80000000,,HCM,,,Thử việc,2018-05-29,,,43107.0,nhu.nph,4651.0,Nguyễn Phan Huỳnh Như,,,Sale man,
-Phạm Thị Hằng,4652,,,,TOP ORG 1,,,Thử việc,2018-05-29,,,43138.0,hang.pt2,4652.0,Phạm Thị Hằng,,,Sale man,
-Hà Thị Thanh Trà,4653,x,80000000,,BDG,BDG,BDG4,Thử việc,2018-05-29,x,,,tra.htt,4653.0,Hà Thị Thanh Trà,150000000.0,5000000.0,Sale man,
-Nguyễn Thị Ty Na,4655,,,,MKD,,,Thử việc,2018-05-29,,,43277.0,na.ntt,4655.0,Nguyễn Thị Ty Na,,,Sale man,
-Lê Thị Xuyến,4654,,,,TOP ORG 2,,,Thử việc,2018-05-29,,,43107.0,xuyen.lt,4654.0,Lê Thị Xuyến,,,Sale man,
-Phan Thị Thanh Nhàn,4656,x,70000000,,BDG,BDG,BDG3,Thử việc,2018-05-29,x,,,nhan.ptt,4656.0,Phan Thị Thanh Nhàn,150000000.0,5000000.0,Sale man,
-Cù Thị Bé Diễm,4657,,,,TOP ORG 1,,,Thử việc,2018-05-29,,,43138.0,diem.ctb,4657.0,Cù Thị Bé Diễm,,,Sale man,
-Nguyễn Thị Thùy,4658,,80000000,,HCM,,,Thử việc,2018-05-29,,,43107.0,thuy.nt3,4658.0,Nguyễn Thị Thùy,,,Sale man,
-Lê Phương Cẩm Tú,4659,,,,TOP ORG,DNI,DNI4,Thử việc,2018-05-29,,,07/28/2018,tu.lpc,4659.0,Lê Phương Cẩm Tú,140000000.0,4666666.7,Sale man,
-Nguyễn Thị Mai Phương,4667,x,,,NORTH,HPG,HPG,Thử việc,2018-06-01,x,,,phuong.ntm2,4667.0,Lê Phương Cẩm Tú,100000000.0,3333333.3,Sale man,
-Trần Thị Liên,4684,,,,BDG,BDG,BDG4,Thử việc,2018-05-06,x,,,lien.tt2,4684.0,Trần Thị Liên,70000000.0,2333333.3,Sale man,
-Vũ Thị Mai,4685,,,,BDG,,,Thử việc,2018-05-06,,,,mai.vt2,4685.0,Vũ Thị Mai,,,Sale man,
-Nguyễn Thị Tường Vy,4686,,,,,,,Thử việc,2018-05-06,,,,vy.ntt,4686.0,Nguyễn Thị Tường Vy,,,Sale man,
-Phạm Thị Ngọc Bé,4687,x,,,BDG,BDG,BDG5,Thử việc,2018-05-06,x,,,be.ptn,4687.0,Phạm Thị Ngọc Bé,70000000.0,2333333.3,Sale man,
-Phan Hồ Hải Duy,4688,,,,,,,Thử việc,2018-05-06,,,,duy.phh,4688.0,Phan Hồ Hải Duy,,,Sale man,
-Lê Phước Duy Danh,4689,,,,,,,Thử việc,2018-05-06,,,,danh.lpd,4689.0,Lê Phước Duy Danh,,,Sale man,
-Ngô Văn Tâm,4690,x,,,TOP ORG,DNI,DNI5,Thử việc,2018-05-06,x,,,tam.nv2,4690.0,Ngô Văn Tâm,200000000.0,6666666.7,Sale man,
-Nguyễn Ngọc Minh Thư,4694,,,,NEW BEE,,,Thử việc,2018-06-12,,,43277.0,thu.nnm,4694.0,Nguyễn Ngọc Minh Thư,,,Sale man,
-Trần Hải Dương,4695,,,,BDG,BDG,,Thử việc,2018-06-12,x,,,duong.th2,4695.0,Trần Hải Dương,70000000.0,2333333.3,Sale man,
-Trần Thị Hoàng Anh,4696,x,,,TOP ORG,DNI,DNI3,Thử việc,2018-06-12,x,,,anh.tth,4696.0,Trần Thị Hoàng Anh,100000000.0,3333333.3,Sale man,
-Nguyễn Hoàng Minh Nhật,4697,x,,,HCM,HCM,HCM1,Thử việc,2018-06-12,x,,,nhat.nhm2,4697.0,Nguyễn Hoàng Minh Nhật,200000000.0,6666666.7,Sale man,
-Mai Văn Đông,4698,,,,,,,Thử việc,2018-06-12,,,43276.0,dong.mv,4698.0,Mai Văn Đông,,,Sale man,
-Thái Thị Thúy Quỳnh,4699,,,,NEW BEE,,,Thử việc,2018-06-12,,,43290.0,quynh.ttt,4699.0,Thái Thị Thúy Quỳnh,75000000.0,2500000.0,Sale man,
-Mai Thanh Thiện,4700,x,,,HCM,HCM,HCM1,Thử việc,2018-06-12,x,,,thien.mt,4700.0,Mai Thanh Thiện,200000000.0,6666666.7,Sale man,
-Thái Đăng Bộ,4703,,,,HCM,,,Thử việc,2018-06-12,,,,bo.td,4703.0,Thái Đăng Bộ,,,Sale man,
-Phạm Phi Hồ,4707,,,,,,,Thử việc,2018-06-19,,,29-06-2018,ho.pp,4707.0,Phạm Phi Hồ,,,Sale man,
-Nguyễn Văn Phấn,4708,,,,HCM,,,Thử việc,2018-06-19,,,,phan.nv,4708.0,Nguyễn Văn Phấn,,,Sale man,
-Nguyễn Đường Mẫn,4709,,,,HCM,,,Thử việc,2018-06-19,,,,man.nd,4709.0,Nguyễn Đường Mẫn,150000000.0,5000000.0,Sale man,
-Đỗ Thành Nguyên,4710,,,,,,,Thử việc,2018-06-19,x,,,nguyen.dt2,4710.0,Đỗ Thành Nguyên,,,Sale man,
-Tống Thị Ngọc Yến,4711,,,,,,,Thử việc,2018-06-19,,,27/6/2018,yen.ttn,4711.0,Tống Thị Ngọc Yến,,,Sale man,
-Huỳnh Ngọc Đoan Trang,4712,,,,BDG,BDG,,Thử việc,2018-06-19,x,,,trang.hnd,4712.0,Huỳnh Ngọc Đoan Trang,60000000.0,2000000.0,Sale man,
-Nguyễn Ngọc Hưng,4713,,,,HCM,,,Thử việc,2018-06-19,,,,hung.nn,4713.0,Nguyễn Ngọc Hưng,100000000.0,3333333.3,Sale man,
-Phạm Nguyễn Hoàng Nam,4714,,,,NEW BEE,,,Thử việc,2018-06-19,x,,,nam.pnh,4714.0,Phạm Nguyễn Hoàng Nam,,,Sale man,
-Đỗ Quang Thuận,4715,,,,NEW BEE,,,Thử việc,2018-06-19,x,,,thuan.dq,4715.0,Đỗ Quang Thuận,,,Sale man,
-Huỳnh Trung Sơn,4722,x,,,MKD,MKD,MKD1,Thử việc,2018-06-26,x,,,son.ht,4722.0,Huỳnh Trung Sơn,75000000.0,2500000.0,Sale man,
-Trần Khánh Ngọc,4723,,,,NEW BEE,,,Thử việc,2018-06-26,,,43289.0,ngoc.tk,4723.0,Trần Khánh Ngọc,50000000.0,1666666.7,Sale man,
-Võ Minh Hiển,4724,,,,DNI,DNI,,Thử việc,2018-06-26,,,43299.0,hien.vl,4724.0,Võ Minh Hiển,100000000.0,3333333.3,Sale man,
-Phạm Quế Chân,4721,,,,NEW BEE,,,Thử việc,2018-06-26,,,43291.0,chan.pq,4721.0,Phạm Quế Chân,50000000.0,1666666.7,Sale man,
-Nguyễn Lương Vinh,4720,,,,NEW BEE,,,Thử việc,2018-06-26,,,43291.0,vinh.nl,4720.0,Nguyễn Lương Vinh,50000000.0,1666666.7,Sale man,
-Nguyễn Thanh Phong,4730,x,,,HCM,HCM,HCM1,Thử việc,2018-07-03,x,,,phong.nt2,4730.0,Nguyễn Thanh Phong,100000000.0,3333333.3,Sale man,
-Lê Thị Kim Hoa,4731,,,,NEW BEE,,,Thử việc,2018-07-03,,,,hoa.ltk2,4731.0,Lê Thị Kim Hoa,,,Sale man,
-Huỳnh Đại Hưng,4732,x,,,HCM,HCM,HCM1,Thử việc,2018-07-03,x,,,hung.hd,4732.0,Huỳnh Đại Hưng,100000000.0,3333333.3,Sale man,
-Trần Thị Ánh Loan,4741,x,,,TOP ORG,DNI,DNI1,Thử việc,2018-07-12,x,,,loan.tta,4741.0,Trần Thị Ánh Loan,50000000.0,,Sale man,
-Phùng Thị Thanh Hương,4747,x,,,NORTH,HPG,HPG,Thử việc,2018-07-16,x,,,huong.ptt2,4747.0,Phùng Thị Thanh Hương,,,Sale man,
-Đinh Thị Ngọc Anh,4750,x,,,HCM,HCM,HCM1,Thử việc,2018-07-17,x,,,anh.dtn2,,Đinh Thị Ngọc Anh,,,Sale man,
-Nguyễn Quang Hòa,4751,,,,TOP ORG,DNI,,Thử việc,2018-07-19,,,07/21/2018,hoa.nq,,Nguyễn Quang Hòa,,,Sale man,
-Nguyễn Thị Hồng Nhung,4756.0,x,,,NEW BEE,,,Thử việc,2018-07-24,x,,,nhung.nth2,,Nguyễn Thị Hồng Nhung,,,Sale man,
-Ngô Đình Duy,4757.0,x,,,NEW BEE,,,Thử việc,2018-07-24,x,,,duy.nd2,,Ngô Đình Duy,,,Sale man,
-Đoàn Thanh Phúc,4758.0,x,,,NEW BEE,,,Thử việc,2018-07-24,x,,,phuc.dt2,,Đoàn Thanh Phúc,,,Sale man,
-Nguyễn Tuấn Tài,4760.0,x,,,NEW BEE,,,Thử việc,2018-07-24,x,,,tai.nt3,,Nguyễn Tuấn Tài,,,Sale man,
+Name,XLiteID,Active,KPI,Level,TLSTeam,Region,Area,Type,AgentID,MSNV,Name_on_NS,Position
+Lưu Thị Ngọc Trâm,362,,0,3.0,TOP ORG,,,Chính thức,tram.ltn,CM0362,"Trâm, Lưu Thị Ngọc",Sale man
+Lê Thị Huệ Tĩnh,361,,750000000,3.0,HCM,,,Chính thức,tinh.lth,CM0361,"Tĩnh, Lê Thị Huệ",Sale man
+Vũ Thị Hồng Nhung,273,,450000000,3.0,BDG,,,Chính thức,nhung.vth,CM0273,"Nhung, Vũ Thị Hồng",Sale man
+Nguyễn Ngọc Duyên,540,x,500000000,2.0,BDG,BDG,BDG5,Chính thức,duyen.nn,CM0540,"Duyên, Nguyễn Ngọc",Sale man
+Nguyễn Thị Minh Hà,268,x,,3.0,TOP ORG,DNI,DNI3,Chính thức,ha.ntm,CM0268,"Hà, Nguyễn Thị Minh",Sale man
+Phương Nhật Vy,767,x,300000000,2.0,BDG,BDG,BDG3,Chính thức,vy.pn,CM0767,"Vy, Phương Nhật",Sale man
+Nguyễn Văn Hội,535,x,300000000,2.0,BDG,BDG,BDG1,Chính thức,hoi.nv,CM0535, ,Sale man
+Nguyễn Thị Thúy An,777,,500000000,2.0,MKD,,,Chính thức,an.ntt,CM0777,"An, Nguyễn Thị Thúy",Sale man
+Đặng Thị Hồng Nhạn,1029,x,350000000,2.0,HCM,HCM,HCM2,Chính thức,nhan.dth,CM1029,"Nhạn, Đặng Thị Hồng",Sale man
+Trần Thị Tuyết Ngân,734,x,330000000,2.0,HCM,HCM,HCM4,Chính thức,ngan.ttt,CM0734,"Ngân, Trần Thị Tuyết",Sale man
+Cao Thùy Linh,473,x,450000000,1.0,NORTH,HNI,HNI,Chính thức,linh.ct,CM0473,"Linh, Cao Thùy",Sale man
+Nguyễn Thị Hằng,558,,0,1.0,CTV,,,Chính thức,hang.ngt,CM0558,"Hằng, Nguyễn Thị",Sale man
+Phạm Thị Bích Hòa,2927,x,950000000,3.0,MKD,MKD,MKD1,Chính thức,hoa.ptb,2927.0,"Hòa, Phạm Thị Bích",Sale man
+Đoàn Thị Nguyên,3128,x,310000000,1.0,HCM,HCM,HCM3,chính thức,nguyen.dt,3128.0,"Nguyên, Đoàn Thị",Sale man
+Trần Phạm Quỳnh Phương,3131,x,,0.0,TOP ORG,DNI,DNI6,chính thức,phuong.tpq,3131.0,"Phương, Trần Phạm Quỳnh",Sale man
+Nguyễn Thị Minh Châu,3284,x,350000000,0.0,BDG,BDG,BDG5,chính thức,chau.ntm,3284.0,"Nguyễn Thị Minh, Châu",Sale man
+Phạm Thị Diệu Hiền,3332,x,295000000,1.0,HCM,HCM,HCM3,chính thức,hien.ptd,3332.0,"Phạm Thị Diệu, Hiền",Sale man
+Phạm Thị Hạnh,3431,x,500000000,0.0,TOP ORG,DNI,DNI6,Chính thức,hanh.pt,3431.0,"Phạm Thị, Hạnh",Sale man
+Bùi Thị Vân Nga,3457,x,,0.0,TOP ORG,DNI,DNI6,chính thức,nga.btv,3457.0,"Bùi Thị Vân, Nga",Sale man
+Nguyễn Thị Phượng,3465,x,500000000,0.0,TOP ORG,DNI,DNI5,chính thức,phuong.nth,3465.0,"Nguyễn Thị, Phượng",Sale man
+Trần Thị Mi Ni,3466,x,450000000,0.0,TOP ORG,DNI,DNI3,Chính thức,ni.ttm,3466.0,"Trần Thị Mi, Ni",Sale man
+Nguyễn Thị Hải Lý,1006,x,400000000,1.0,NORTH,HPG,HPG,Chính thức,ly.nth,CM01006,"Lý, Nguyễn Thị Hải Lý",Sale man
+Nguyễn Thị Hồng Vân,3480,,420000000,0.0,HCM,,,Thử việc,van.nth,3480.0,"Vân, Nguyễn Thị Hồng",
+Nguyễn Lê Thanh Nhã,3503,x,250000000,,BDG,BDG,BDG4,Thử việc,nha.nlt,3503.0,"Nhã, Nguyễn Lê Thanh",Sale man
+Phạm Thị Yến Phương,3504,,,,BDGA,,,Thử việc,phuong.pty,3504.0,"Phương, Phạm Thị Yến",Sale man
+Trần Thị Hoài Xuân,3549,x,250000000,,BDG,BDG,BDG5,Thử việc,xuan.tth,3549.0,"Xuân, Trần Thị Hoài",Sale man
+Trần Thị Kim Hiền,3677,x,220000000,0.0,HCM,HCM,HCM4,Thử việc,hien.ttk,3677.0,"Hiền, Trần Thị Kim",Sale man
+Mai Thế Phương,3690,x,400000000,0.0,DNI,DNI,DNI1,Thử việc,phuong.mt,3690.0,"Phương, Mai Thế",Sale man
+Lê Thị Mỹ Trinh,3748,x,500000000,,TOP ORG,DNI,DNI5,Thử việc,trinh.ltm,3748.0,"Trinh, Lê Thị Mỹ",Sale man
+Nguyễn Thị Thùy Linh,3746,x,400000000,0.0,TOP ORG,DNI,DNi3,Thử việc,linh.ntthuy,3746.0,"Linh, Nguyễn Thị Thùy",Sale man
+Trịnh Thị Mỹ Duyên,3784,,,0.0,BDGA,,,Thử việc,duyen.ttmy,3784.0,"Duyên, Trịnh Thị Mỹ",Sale man
+Phạm Thị Mến,3794,x,600000000,1.0,NORTH,HPG,HPG,Chính thức,men.phth,3794.0,"Mến, Phạm Thị Mến",Sale man
+Đặng Hồng Nhân,3810,,450000000,0.0,TOP ORG 1,,,Thử việc,nhan.dh,3810.0,"Nhân, Đặng Hồng",Sale man
+Đỗ Thu Thảo,3852,,,,TOP ORG 2,,,Thử việc,thao.dothu,3852.0,"Thảo, Đỗ Thu",Sale man
+Đỗ Lê Tú,3855,,0,,CA,,,Thử việc,tu.dle,3855.0,"Tú, Đỗ Lê",Sale man
+Trần Thị Thanh Mến,3879,,0,,MKD,,,Thử việc,men.ttt,3879.0,"Mến, Trần Thị Thanh",Sale man
+Nguyễn Thái Kim Ngọc,3874,x,,,TOP ORG,DNI,DNI6,Thử việc,ngoc.ntk,3874.0,"Ngọc, Nguyễn Thái Kim",Sale man
+Trần Minh Trọng,3895,x,400000000,,HCM,HCM,HCM1,Thử việc,trong.tm,3895.0,"Trọng, Trần Minh",Sale man
+Đào Trần Yến Nhi,3893,x,250000000,,BDG,BDG,BDG3,Thử việc,nhi.dty,3893.0,"Nhi, Đào Trần Yến",Sale man
+Nguyễn Huy Hoàng,3891,x,220000000,,BDG,BDG,BDG5,Thử việc,hoang.nh,3891.0,"Hoàng, Nguyễn Huy",Sale man
+Lê Thị Ánh,3866,,400000000,0.0,NORTH,,,Chính thức,anh.lth,3866.0,"Ánh, Lê Thị",Sale man
+Lê Thị Quỳnh Như,3964,x,400000000,,TOP ORG,DNI,DNI6,Thử việc,nhu.ltq,3964.0,"Như, Lê Thị Quỳnh",Sale man
+Bùi Thị Kim Đạm,3965,x,250000000,,BDG,BDG,BDG1,Thử việc,dam.btk,3965.0,"Đạm, Bùi Thị Kim",Sale man
+Nguyễn Gia Hưng,3994,,,,BDGB,,,Thử việc,hung.ng,3994.0,"Hưng, Nguyễn Gia",Sale man
+Nguyễn Thị Kim Hồng,3999,,250000000,,HCM,,,Thử việc,hong.ntk,3999.0,"Hồng, Nguyễn Thị Kim",Sale man
+Nguyễn Thị Thanh Bình,4000,x,220000000,,BDG,BDG,BDG5,Thử việc,binh.ntt,4000.0,"Bình, Nguyễn Thị Thanh",Sale man
+Nguyễn Thúy Quỳnh,3998,x,220000000,,BDG,BDG,BDG5,Thử việc,quynh.ngthuy,3998.0,"Quỳnh, Nguyễn Thúy",Sale man
+Huỳnh Thị Kiều Duyên,4034,,500000000,,TOP ORG,DNI,DNI3,Thử việc,duyen.htk,4034.0,"Duyên, Huỳnh Thị Kiều",Sale man
+Lâm Bình,4032,,0,,DNI,,,Thử việc,binh.lam,4032.0,"Bình, Lâm",Sale man
+Hồ Sỹ Đức,4033,,250000000,,HCM,,,Thử việc,duc.hs,4033.0,"Đức, Hồ Sỹ",Sale man
+Lý Thị Nụ,0089,x,400000000,0.0,NORTH,HNI,HNI,Chính thức,nu.lt,CM0089,"Nụ, Lý Thị",Sale man
+Lê Hồng Mỹ Hảo,4115,x,220000000,,HCM,HCM,HCM4,Thử việc,hao.lhmy,4115.0,"Hảo, Lê Hồng Mỹ",Sale man
+Huỳnh Ngọc Anh,4094,x,270000000,,BDG,BDG,BDG4,Thử việc,anh.hn,4094.0,"Anh, Huỳnh Ngọc",Sale man
+Trần Nguyễn Phương Thủy,4095,x,300000000,,DNI,DNI,DNI1,Thử việc,thuy.tnp,4095.0,"Thủy, Trần Nguyễn Phương",Sale man
+Võ Thị Bích Kiều,4100,,,,BDGB,,,Thử việc,kieu.vtb,4100.0,"Kiều, Võ Thị Bích",Sale man
+Nguyễn Thị Kiều Vân,4102,x,,,TOP ORG,DNI,DNI5,Thử việc,van.ngtk,4102.0,"Vân, Nguyễn Thị Kiều",Sale man
+Néang Chanh Bô Pha,4142,,0,,DNI,,,Thử việc,pha.ncb,4142.0,"Pha, Néang Chanh Bô",Sale man
+Nguyễn Đức Hiệp,4132,,290000000,0.0,MKD,,,Thử việc,hiep.nd,4132.0,"Hiệp, Nguyễn Đức",Sale man
+Nguyễn Minh Sang,4140,,300000000,0.0,MKD,,,Thử việc,sang.nguyen,4140.0,"Sang, Nguyễn Minh",Sale man
+Trương Thị Hiếu,4143,,0,0.0,MKD,,,Thử việc,hieu.trt,4143.0,"Hiếu, Trương Thị",Sale man
+Lê Đình Việt Nhi,4157,,250000000,,HCM,,,Thử việc,vietnhi.ld,4157.0,"Nhi, Lê Đình Việt",Sale man
+Lê Như Hồng Phúc,4167,x,300000000,,DNI,DNI,DNI1,Thử việc,phuc.lnh,4167.0,"Phúc, Lê Như Hồng",Sale man
+Lê Kim Chi,4168,,182160052,,BDGA,,,Thử việc,chi.lk,4168.0,"Chi, Lê Kim",Sale man
+Nguyễn Thị Mỹ Huyền,4178,,200000000,,DNI,,,Thử việc,myhuyen.nt,4178.0,"Huyền, Nguyễn Thị Mỹ",Sale man
+Đặng Ngọc Quý,4171,,0,,MKD,,,Thử việc,quy.dn,4171.0,"Quý, Đặng Ngọc",Sale man
+Võ Phi Hoàng,4169,,500000000,,HCM,HCM,HCM1,Thử việc,hoang.vophi,4169.0,"Hoàng, Võ Phi",Sale man
+Trần Thị Ngọc Ánh,4170,,350000000,,TOP ORG 2,,,Thử việc,anh.thn,4170.0,"Ánh, Trần Thị Ngọc",Sale man
+Nguyễn Thị Hồng Khanh,4182,,300000000,0.0,NORTH,,,Thử việc,khanh.nth,4182.0,"Khanh, Nguyễn Thị Hồng",Sale man
+Nguyễn Hoàng Luật,4198,x,500000000,,MKD,MKD,MKD4,Thử việc,luat.nh,4198.0,"Luật, Nguyễn Hoàng",Sale man
+Quách Huy Bình,4201,x,300000000,,DNI,DNI,DNI2,Thử việc,binh.qh,4201.0,"Bình, Quách Huy",Sale man
+Nguyễn Thị Phương Nga,4209,,192422070,,BDGA,,,Thử việc,nga.ntph,4209.0,"Nga, Nguyễn Thị Phương",Sale man
+Đỗ Thị Mỹ Hiệp,4206,x,250000000,,BDG,BDG,BDG1,Thử việc,hiep.dtm,4206.0,"Hiệp, Đỗ Thị Mỹ",Sale man
+Trần Thị Phương Anh,4196,,,,TOP ORG 2,,,Thử việc,phuonganh.tt,4196.0,"Anh, Trần Thị Phương",Sale man
+Nguyễn Hoàng Mai Ly,4235,x,400000000,,MKD,MKD,MKD1,Thử việc,ly.nhm,4235.0,"Ly, Nguyễn Hoàng Mai",Sale man
+Tô Mạnh Cường,4247,,0,0.0,MKD,,,Thử việc,cuong.to,4247.0,"Cường, Tô Mạnh",Sale man
+Thái Thành Khoa,4251,,250000000,,HCM,HCM,HCM5,Thử việc,khoa.tt,4251.0,"Khoa, Thái Thành",Sale man
+Nguyễn Đắc Hóa,4261,,0,,DNI,,,Thử việc,hoa.nd,4261.0,"Hóa, Nguyễn Đắc",Sale man
+Nguyễn Bá Lộc,4248,,0,,CA,,,Thử việc,loc.ngba,4248.0,"Lộc, Nguyễn Bá",Sale man
+Đinh Thị Bích Hằng,4279,,0,,MKD,,,Thử việc,hang.dtb,4279.0,"Hằng, Đinh Thị Bích",Sale man
+Phạm Mỹ Tâm,4277,,0,,MKD,,,Thử việc,tam.pm,4277.0,"Tâm, Phạm Mỹ",Sale man
+Nguyễn Hoàng Phượng,4281,,0,,CA,,,Thử việc,phuong.nghoang,4281.0,"Phượng, Nguyễn Hoàng",Sale man
+Trần Hòa Trinh,4282,x,360000000,,MKD,MKD,MKD1,Thử việc,trinh.th,4282.0,"Trinh, Trần Hòa",Sale man
+Trần Thị Thúy Linh,4285,,,,BDGB,,,Thử việc,linh.ttt,4285.0,"Linh, Trần Thị Thúy",Sale man
+Nguyễn Sơn Tùng,4286,,0,,CA,,,Thử việc,tung.ns,4286.0,"Tùng, Nguyễn Sơn",Sale man
+Trần Thanh Sang,4284,x,400000000,,DNI,DNI,DNI2,Thử việc,sang.tt,4284.0,"Sang, Trần Thanh",Sale man
+Trần Thị Thanh Lan,2163,x,4500000000,,HCM,HCM,,Chính thức,lan.tran,2163.0,Trần Thị Thanh Lan,Team Leader
+Nguyễn Thị Tiểu Băng,2012,x,4800000000,,BDG,BDG,,Chính thức,bang.nguyen,2012.0,Nguyễn Thị Tiểu Băng,Team Leader
+Trần Nguyễn Bích Trâm,3991,,2000000000,,DNI,DNI,,Chính thức,tram.tnb,3991.0,Trần Nguyễn Bích Trâm,Team Leader
+Hà Việt Tiến,3977,,,,HCM,,,Chính thức,tien.hv,3977.0,Hà Việt Tiến,Team Leader
+Nguyễn Thị Hoàng Điệp,3989,,3095000000,,HCM,,,Chính thức,diep.nth,3989.0,Nguyễn Thị Hoàng Điệp,Team Leader
+Huỳnh Trung Phú,3988,x,4950000000,,MKD,MKD,,Chính thức,phu.ht,3988.0,Huỳnh Trung Phú,Team Leader
+Lê Thị Trang,2244,x,2400000000,0.0,NORTH,,,Chính thức,thitrang.le,2244.0,Lê Thị Trang,Team Leader
+Trần Huỳnh Uyên Phương,2205,x,,,TOP ORG,DNI,,Chính thức,uyenphuong.tran,2205.0,Trần Huỳnh Uyên Phương,Team Leader
+Ung Đức Quang,3990,,5000000000,,TOP ORG,,,Chính thức,quang.ud,3990.0,Ung Đức Quang,Team Leader
+Lưu Thị Thu Thảo,4357,,250000000,,MKD,,,Thử việc,thao.ltthu,4357.0,"Thảo, Lưu Thị Thu",Sale man
+Lý Thị Thanh Phương,4363,x,300000000,,MKD,MKD,MKD4,Thử việc,phuong.lytt,4363.0,"Phương, Lý Thị Thanh",Sale man
+Nguyễn Thùy Trúc Linh,4356,,180000000,,MKD,,,Thử việc,linh.nttruc,4356.0,"Linh, Nguyễn Thùy Trúc",Sale man
+Giáp Minh Hiếu,4365,,,,MKD,,,Thử việc,hieu.gm,4365.0,"Hiếu, Giáp Minh",Sale man
+Lê Duy Hải Đăng,4362,x,300000000,,MKD,MKD,MKD3,Thử việc,dang.ldh,4362.0,"Đăng, Lê Duy Hải",Sale man
+Bùi Mạnh Tùng,4359,x,,,TOP ORG,DNI,DNI5,Thử việc,tung.bm,4359.0,"Tùng,Bùi Mạnh",Sale man
+Nguyễn Ngọc Thanh Thanh,4361,,250000000,,TOP ORG 2,,,Thử việc,thanh.nnt,4361.0,Nguyễn Ngọc Thanh Thanh,Sale man
+Phạm Thị Thùy Dung,4364,,,,TOP ORG 1,,,Thử việc,dung.ptthuy,4364.0,,Sale man
+Bùi Thanh Thiên,4358,,,,HCM,,,Thử việc,thien.bt,4358.0,Nguyễn Thị Hoàng Điệp,Sale man
+Nguyễn Trần Kim Chi,4369,,,,HCM,,,Thử việc,chi.ngtk,4369.0,Nguyễn Thị Hoàng Điệp,Sale man
+Lang Minh Trường,4386,,250000000,,TOP ORG 1,,,Thử việc,truong.lm,4386.0,"Trường,Lang Minh",Sale man
+Nguyễn Quyết Tiến,4387,,100000000,0.0,NORTH,,,Thử việc,tien.ngq,4387.0,"Tiến, Nguyễn Quyết",Sale man
+Vũ Đức Mạnh,4388,,150000000,0.0,NORTH,,,Thử việc,manh.vd,4388.0,"Mạnh, Vũ Đức",Sale man
+Nguyễn Thị Phương Thảo,4399,x,150000000,0.0,NORTH,HNI,HNI,Thử việc,thao.ntp2,4399.0,"Thảo, Nguyễn Thị Phương",Sale man
+Lê Thị Mỹ Danh,4413,,250000000,,TOP ORG 1,,,Thử việc,danh.ltm2,4413.0,"Danh,Lê Thị Mỹ",Sale man
+Trần Thanh Trúc,4412,,,,HCM,,,Thử việc,truc.tt,4412.0,,Sale man
+Nguyễn Trần Thảo Anh,4414,,,,HCM,,,Thử việc,anh.ntt2,4414.0,,Sale man
+Trần Minh Đăng,4410,,,,HCM,,,Thử việc,dang.tm,4410.0,,Sale man
+Nguyễn Thị Thảo,4464,x,150000000,0.0,NORTH,HNI,HNI,Thử việc,thao.nt2,4464.0,"Thảo, Nguyễn Thị",Sale man
+Nguyễn Ngọc Bảo,4436,,200000000,,TOP ORG 1,,,Thử việc,bao.nn,4436.0,"Bảo, Nguyễn Ngọc",Sale man
+Huỳnh Thanh Toàn,4437,,200000000,,TOP ORG 1,,,Thử việc,toan.ht,4437.0,"Toàn, Huỳnh Thanh",Sale man
+Trịnh Thị Mỹ Duyên,4465,x,220000000,,BDG,BDG,BDG5,Thử việc,duyen.ttm2,4465.0,"Duyên, Trịnh Thị Mỹ",Sale man
+Cao Thị Thanh Châu,4472,,,,HCM,,,Thử việc,chau.ctt,4472.0,,Sale man
+Nguyễn Thị Thanh Trúc,4471,,120000000,,BDGB,,,Thử việc,truc.ntt,4471.0,,Sale man
+Lê Hữu Thịnh,4470,,,,MKD,,,Thử việc,thinh.lh,4470.0,,Sale man
+Trần Văn Vũ,4469,,,,DNI,,,Thử việc,vu.tv,4469.0,Trần Văn Vũ,Sale man
+Triệu Quốc Thảo,4497,,,,DNI,,,Thử việc,thao.tq,4497.0,Triệu Quốc Thảo,Sale man
+Nguyễn Ngọc Xuân Ngân,4498,,100000000,,HCM,,,Thử việc,ngan.nnx,4498.0,,Sale man
+Đoàn Thị Anh Thảo,4499,,,,HCM,,,Thử việc,thao.dta,4499.0,,Sale man
+Trần Thị Ngọc Mai,4501,,200000000,,MKD,MKD,,Thử việc,mai.ttn2,4501.0,Trần Thị Ngọc Mai,Sale man
+Nguyễn Thị Ngọc Sơn,4502,,,,BDGB,,,Thử việc,son.ntn,4502.0,,Sale man
+Trịnh Ngọc Quỳnh Trâm,4503,,,,BDGB,,,Thử việc,tram.tnq,4503.0,,Sale man
+Trần Thị Minh Hiếu,4504,,,,DNI,,,Thử việc,hieu.ttm,4504.0,Trần Thị Minh Hiếu,Sale man
+Bùi Minh Châu,4505,,,,DNI,,,Thử việc,chau.bm,4505.0,Bùi Minh Châu,Sale man
+Đoàn Thị Anh Thảo,4499,,,,HCM,,,Thử việc,thao.dta,4499.0,Đoàn Thị Anh Thảo,Sale man
+Lê Đăng Trường Giang,4523,,,,TOP ORG 1,,,Thử việc,giang.ldt,4523.0,,Sale man
+Khiếu Như Phương Thảo,4524,,180000000,,MKD,,,Thử việc,thao.knp,4524.0,Khiếu Như Phương Thảo,Sale man
+Lê Thị Trúc Linh,4525,,100000000,,HCM,,,Thử việc,linh.ltt,4525.0,,Sale man
+Trương Hồng Quý,4526,x,180000000,,HCM,HCM,HCM3,Thử việc,quy.th,4526.0,Trương Hồng Quý,Sale man
+Phùng Thiện Tài,4527,,180000000,,MKD,,,Thử việc,tai.pt,4527.0,Phùng Thiện Tài,Sale man
+Hồ Thị Ngọc Diễm,4528,,180000000,,MKD,MKD,MKD2,Thử việc,diem.htn,4528.0,Hồ Thị Ngọc Diễm,Sale man
+Phan Nguyễn Diệu Thảo,4529,,,,BDGB,,,Thử việc,thao.pnd,4529.0,,Sale man
+Nguyễn Phạm Thành Nhơn,4530,,200000000,,MKD,,,Thử việc,nhon.npt,4530.0,Nguyễn Phạm Thành Nhơn,Sale man
+Võ Nhân Kiệt,4531,,150000000,,TOP ORG 2,,,Thử việc,kiet.vn,4531.0,Võ Nhân Kiệt,Sale man
+Trần Vũ Duy Tân,4547,,50000000,,DNI,,,Thử việc,tan.tvd,4547.0,Trần Vũ Duy Tân,Sale man
+Châu Bích Ngọc,4548,,150000000,,BDG,BDG,,Thử việc,ngoc.cb,4548.0,,Sale man
+Nguyễn Huỳnh Anh Duy,4549,,,,HCM,,,Thử việc,duy.nha,4549.0,,Sale man
+Trần Thị Kim Ngọc,4550,,,,TOP ORG 1,,,Thử việc,ngoc.ttk,4550.0,,Sale man
+Võ Thị Thục Hân,4557,,50000000,,DNI,,,Thử việc,han.vtt,4557.0,Võ Thị Thục Hân,Sale man
+Đỗ Thị Lân,4552,,100000000,,BDGA,,,Thử việc,lan.dt,4552.0,,Sale man
+Nguyễn Thanh Vĩ,4553,,180000000,,HCM,HCM,HCM3,Thử việc,vi.nt,4553.0,Nguyễn Thanh Vĩ,Sale man
+Lê Minh Hoàng,4554,x,100000000,,TOP ORG,DNI,DNI4,Thử việc,hoang.lm,4554.0,Lê Minh Hoàng,Sale man
+Phạm Thị Phương Anh,4555,,150000000,,MKD,,,Thử việc,anh.ptp,4555.0,Phạm Thị Phương Anh,Sale man
+Võ Phương Duyên,4556,,150000000,,MKD,,,Thử việc,duyen.vp,4556.0,Võ Phương Duyên,Sale man
+Lê Thu Thảo,4535,x,50000000,,NORTH,HPG,HPG,Thử việc,thao.lt,4535.0,Lê Thu Thảo,Sale man
+Vàng Thị Tuyến,4564,,50000000,,NORTH,,,Thử việc,tuyen.vt,4564.0,Vàng Thị Tuyến,Sale man
+Lê Thị Kiều Hoa,4582,,,,TOP ORG,DNI,,Thử việc,hoa.ltk,4582.0,Lê Thị Kiều Hoa,Sale man
+Lý Thị Hồng Nhung,4583,x,100000000,,MKD,MKD,MKD1,Thử việc,nhung.lth,4583.0,Lý Thị Hồng Nhung,Sale man
+Nguyễn Thị Mai Ly,4584,,100000000,,BDGB,,,Thử việc,ly.ntm,4584.0,Nguyễn Thị Mai Ly,Sale man
+Lê Thị Hồng Bích,4585,,100000000,,TOP ORG,DNI,DNI3,Thử việc,bich.ltb,4585.0,Lê Thị Hồng Bích,Sale man
+Huỳnh Khương Lâm Quân,4586,,100000000,,DNI,DNI,DNI2,Thử việc,quan.hkl,4586.0,Huỳnh Khương Lâm Quân,Sale man
+Phạm Thị Thùy Dung,4587,,105000000,,BDGB,,,Thử việc,dung.ptt2,4587.0,Phạm Thị Thùy Dung,Sale man
+Nguyễn Quách Ngọc Hân,4633,x,10000000,,TOP ORG,DNI,DNI5,Thử việc,han.nqn,4633.0,Nguyễn Quách Ngọc Hân,Sale man
+Bùi Trần Thanh Tâm,4634,x,110000000,,HCM,HCM,HCM2,Thử việc,tam.btt,4634.0,Bùi Trần Thanh Tâm,Sale man
+Trần Thị Tâm,4635,,10000000,,MKD,,,Thử việc,tam.tt2,4635.0,Trần Thị Tâm,Sale man
+Đào Thị Mỹ Lệ,4636,x,10000000,,MKD,DNG,DNG1,Thử việc,le.dtm,4636.0,Đào Thị Mỹ Lệ,Sale man
+Mạch Duy Thuận,4638,,,,TOP ORG 1,,,Thử việc,thuan.md,4638.0,Mạch Duy Thuận,Sale man
+Đặng Thị Oanh,4639,x,,,MKD,DNG,DNG2,Thử việc,oanh.dt,4639.0,Đặng Thị Oanh,Sale man
+Đặng Giang Thanh,4640,,110000000,,HCM,,,Thử việc,thanh.dg,4640.0,Đặng Giang Thanh,Sale man
+Nguyễn Phan Huỳnh Như,4651,,80000000,,HCM,,,Thử việc,nhu.nph,4651.0,Nguyễn Phan Huỳnh Như,Sale man
+Phạm Thị Hằng,4652,,,,TOP ORG 1,,,Thử việc,hang.pt2,4652.0,Phạm Thị Hằng,Sale man
+Hà Thị Thanh Trà,4653,x,80000000,,BDG,BDG,BDG4,Thử việc,tra.htt,4653.0,Hà Thị Thanh Trà,Sale man
+Nguyễn Thị Ty Na,4655,,,,MKD,,,Thử việc,na.ntt,4655.0,Nguyễn Thị Ty Na,Sale man
+Lê Thị Xuyến,4654,,,,TOP ORG 2,,,Thử việc,xuyen.lt,4654.0,Lê Thị Xuyến,Sale man
+Phan Thị Thanh Nhàn,4656,x,70000000,,BDG,BDG,BDG3,Thử việc,nhan.ptt,4656.0,Phan Thị Thanh Nhàn,Sale man
+Cù Thị Bé Diễm,4657,,,,TOP ORG 1,,,Thử việc,diem.ctb,4657.0,Cù Thị Bé Diễm,Sale man
+Nguyễn Thị Thùy,4658,,80000000,,HCM,,,Thử việc,thuy.nt3,4658.0,Nguyễn Thị Thùy,Sale man
+Lê Phương Cẩm Tú,4659,,,,TOP ORG,DNI,DNI4,Thử việc,tu.lpc,4659.0,Lê Phương Cẩm Tú,Sale man
+Nguyễn Thị Mai Phương,4667,x,,,NORTH,HPG,HPG,Thử việc,phuong.ntm2,4667.0,Lê Phương Cẩm Tú,Sale man
+Trần Thị Liên,4684,,,,BDG,BDG,BDG4,Thử việc,lien.tt2,4684.0,Trần Thị Liên,Sale man
+Vũ Thị Mai,4685,,,,BDG,,,Thử việc,mai.vt2,4685.0,Vũ Thị Mai,Sale man
+Nguyễn Thị Tường Vy,4686,,,,,,,Thử việc,vy.ntt,4686.0,Nguyễn Thị Tường Vy,Sale man
+Phạm Thị Ngọc Bé,4687,x,,,BDG,BDG,BDG5,Thử việc,be.ptn,4687.0,Phạm Thị Ngọc Bé,Sale man
+Phan Hồ Hải Duy,4688,,,,,,,Thử việc,duy.phh,4688.0,Phan Hồ Hải Duy,Sale man
+Lê Phước Duy Danh,4689,,,,,,,Thử việc,danh.lpd,4689.0,Lê Phước Duy Danh,Sale man
+Ngô Văn Tâm,4690,x,,,TOP ORG,DNI,DNI5,Thử việc,tam.nv2,4690.0,Ngô Văn Tâm,Sale man
+Nguyễn Ngọc Minh Thư,4694,,,,NEW BEE,,,Thử việc,thu.nnm,4694.0,Nguyễn Ngọc Minh Thư,Sale man
+Trần Hải Dương,4695,,,,BDG,BDG,,Thử việc,duong.th2,4695.0,Trần Hải Dương,Sale man
+Trần Thị Hoàng Anh,4696,x,,,TOP ORG,DNI,DNI3,Thử việc,anh.tth,4696.0,Trần Thị Hoàng Anh,Sale man
+Nguyễn Hoàng Minh Nhật,4697,x,,,HCM,HCM,HCM1,Thử việc,nhat.nhm2,4697.0,Nguyễn Hoàng Minh Nhật,Sale man
+Mai Văn Đông,4698,,,,,,,Thử việc,dong.mv,4698.0,Mai Văn Đông,Sale man
+Thái Thị Thúy Quỳnh,4699,,,,NEW BEE,,,Thử việc,quynh.ttt,4699.0,Thái Thị Thúy Quỳnh,Sale man
+Mai Thanh Thiện,4700,x,,,HCM,HCM,HCM1,Thử việc,thien.mt,4700.0,Mai Thanh Thiện,Sale man
+Thái Đăng Bộ,4703,,,,HCM,,,Thử việc,bo.td,4703.0,Thái Đăng Bộ,Sale man
+Phạm Phi Hồ,4707,,,,,,,Thử việc,ho.pp,4707.0,Phạm Phi Hồ,Sale man
+Nguyễn Văn Phấn,4708,,,,HCM,,,Thử việc,phan.nv,4708.0,Nguyễn Văn Phấn,Sale man
+Nguyễn Đường Mẫn,4709,,,,HCM,,,Thử việc,man.nd,4709.0,Nguyễn Đường Mẫn,Sale man
+Đỗ Thành Nguyên,4710,,,,,,,Thử việc,nguyen.dt2,4710.0,Đỗ Thành Nguyên,Sale man
+Tống Thị Ngọc Yến,4711,,,,,,,Thử việc,yen.ttn,4711.0,Tống Thị Ngọc Yến,Sale man
+Huỳnh Ngọc Đoan Trang,4712,,,,BDG,BDG,,Thử việc,trang.hnd,4712.0,Huỳnh Ngọc Đoan Trang,Sale man
+Nguyễn Ngọc Hưng,4713,,,,HCM,,,Thử việc,hung.nn,4713.0,Nguyễn Ngọc Hưng,Sale man
+Phạm Nguyễn Hoàng Nam,4714,,,,NEW BEE,,,Thử việc,nam.pnh,4714.0,Phạm Nguyễn Hoàng Nam,Sale man
+Đỗ Quang Thuận,4715,,,,NEW BEE,,,Thử việc,thuan.dq,4715.0,Đỗ Quang Thuận,Sale man
+Huỳnh Trung Sơn,4722,x,,,MKD,MKD,MKD1,Thử việc,son.ht,4722.0,Huỳnh Trung Sơn,Sale man
+Trần Khánh Ngọc,4723,,,,NEW BEE,,,Thử việc,ngoc.tk,4723.0,Trần Khánh Ngọc,Sale man
+Võ Minh Hiển,4724,,,,DNI,DNI,,Thử việc,hien.vl,4724.0,Võ Minh Hiển,Sale man
+Phạm Quế Chân,4721,,,,NEW BEE,,,Thử việc,chan.pq,4721.0,Phạm Quế Chân,Sale man
+Nguyễn Lương Vinh,4720,,,,NEW BEE,,,Thử việc,vinh.nl,4720.0,Nguyễn Lương Vinh,Sale man
+Nguyễn Thanh Phong,4730,x,,,HCM,HCM,HCM1,Thử việc,phong.nt2,4730.0,Nguyễn Thanh Phong,Sale man
+Lê Thị Kim Hoa,4731,,,,NEW BEE,,,Thử việc,hoa.ltk2,4731.0,Lê Thị Kim Hoa,Sale man
+Huỳnh Đại Hưng,4732,x,,,HCM,HCM,HCM1,Thử việc,hung.hd,4732.0,Huỳnh Đại Hưng,Sale man
+Trần Thị Ánh Loan,4741,x,,,TOP ORG,DNI,DNI1,Thử việc,loan.tta,4741.0,Trần Thị Ánh Loan,Sale man
+Phùng Thị Thanh Hương,4747,x,,,NORTH,HPG,HPG,Thử việc,huong.ptt2,4747.0,Phùng Thị Thanh Hương,Sale man
+Đinh Thị Ngọc Anh,4750,x,,,HCM,HCM,HCM1,Thử việc,anh.dtn2,,Đinh Thị Ngọc Anh,Sale man
+Nguyễn Quang Hòa,4751,,,,TOP ORG,DNI,,Thử việc,hoa.nq,,Nguyễn Quang Hòa,Sale man
+Nguyễn Thị Hồng Nhung,4756.0,x,,,NEW BEE,,,Thử việc,nhung.nth2,,Nguyễn Thị Hồng Nhung,Sale man
+Ngô Đình Duy,4757.0,x,,,NEW BEE,,,Thử việc,duy.nd2,,Ngô Đình Duy,Sale man
+Đoàn Thanh Phúc,4758.0,x,,,NEW BEE,,,Thử việc,phuc.dt2,,Đoàn Thanh Phúc,Sale man
+Nguyễn Tuấn Tài,4760.0,x,,,NEW BEE,,,Thử việc,tai.nt3,,Nguyễn Tuấn Tài,Sale man
